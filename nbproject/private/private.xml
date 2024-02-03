@@ -6,9 +6,15 @@
             <file>file:/home/blablabla/NetBeansProjects/Almacen/src/java/config/Conexion.java</file>
             <file>file:/home/blablabla/NetBeansProjects/Almacen/web/Productos/modificar.jsp</file>
             <file>file:/home/blablabla/NetBeansProjects/Almacen/web/Productos/index.jsp</file>
+            <file>file:/home/blablabla/NetBeansProjects/Almacen/web/Clients/index.jsp</file>
+            <file>file:/home/blablabla/NetBeansProjects/Almacen/src/java/modelo/UsuariosDAO.java</file>
             <file>file:/home/blablabla/NetBeansProjects/Almacen/web/index.html</file>
             <file>file:/home/blablabla/NetBeansProjects/Almacen/src/java/modelo/Productos.java</file>
+            <file>file:/home/blablabla/NetBeansProjects/Almacen/web/Clients/nuevo.jsp</file>
+            <file>file:/home/blablabla/NetBeansProjects/Almacen/src/java/modelo/Usuarios.java</file>
+            <file>file:/home/blablabla/NetBeansProjects/Almacen/src/java/controlador/UsuariosController.java</file>
             <file>file:/home/blablabla/NetBeansProjects/Almacen/src/java/modelo/ProductosDAO.java</file>
+            <file>file:/home/blablabla/NetBeansProjects/Almacen/web/Clients/modificar.jsp</file>
             <file>file:/home/blablabla/NetBeansProjects/Almacen/src/java/controlador/ProductosController.java</file>
             <file>file:/home/blablabla/NetBeansProjects/Almacen/web/Productos/nuevo.jsp</file>
         </group>

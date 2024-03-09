@@ -15,7 +15,8 @@ public class Conexion {
     public Connection getConexion() {
 	    try {
 		    Class.forName("com.mysql.jdbc.Driver");
-		    Connection conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/almacen", "root", "password");
+		    Connection conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/gstore", "root", "password");
+		    System.out.println(conexion);
 		    return conexion;
 	    } 
 	    catch (SQLException e) {
